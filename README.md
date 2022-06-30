@@ -20,7 +20,6 @@ import cartogrammer
 cartogram = cartogrammer.Cartogram(shapefile_path, export)
 
 print(cartogram.data)
-
 ```
 
 ### Arguments
