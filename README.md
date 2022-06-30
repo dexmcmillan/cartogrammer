@@ -2,7 +2,7 @@
 
 Turn shapefiles into grids of evenly spaced squares for use in grid cartograms.
 
-See an example useage here:
+See an example useage [here](https://nbviewer.org/github/dexmcmillan/cbc-data/blob/main/notebooks-other/20220630-CARTOGRAMMEREXAMPLE/20220630-CARTOGRAMMEREXAMPLE.ipynb).
 
 ### Useage
 
