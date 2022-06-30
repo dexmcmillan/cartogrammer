@@ -10,7 +10,7 @@ Install directly from the github release.
 
 `pip install https://github.com/dexmcmillan/cartogrammer/releases/download/v0.0.2/cartogrammer-0.0.2-py3-none-any.whl`
 
-### Useage
+### Usage
 
 Cartogrammer exposes one class, Cartogram. Implement like so:
 
